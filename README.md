@@ -2,7 +2,7 @@
 # Hi, I'm Harry Mudd 👋 
 ### Data Analyst | Specialized in Public Health Surveillance & Healthcare Analytics
 
-Highly analytical professional with 14+ years of data experience, combining advanced enterprise data management with rigorous public health frameworks. I specialize in turning complex multi-source datasets into actionable insight to drive population health outcomes and evidence-based decision-making.
+Healthcare Systems & Data Analyst with 15+ years of experience in benefits configuration, workflow troubleshooting, SQL/Python data validation, and client‑facing problem resolution. Proven ability to translate complex healthcare requirements into accurate system logic, stable operations, and actionable insights. Completing a Master’s in Healthcare Analytics with advanced training in predictive modeling, data warehousing, and statistical analysis. Skilled in SDLC, UAT, defect triage, and cross‑functional collaboration to improve operational efficiency and support data‑driven decision‑making.
 
 ---
 
