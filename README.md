@@ -45,5 +45,5 @@ Healthcare Systems & Data Analyst with 15+ years of experience in benefits confi
 ---
 
 ## 📫 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/harr-mudd](https://linkedin.com/in/harry-mudd)
+* 💼 **LinkedIn:** [linkedin.com/in/harry-mudd](https://linkedin.com/in/harry-mudd)
 * 📧 **Email:** [mudd901@protonmail.com](mailto:mudd901@protonmail.com)
