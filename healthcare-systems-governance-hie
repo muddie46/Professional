@@ -1,1 +1,6 @@
+# Enterprise HIE Interoperability & Value Realization Strategy
 
+## Executive Summary
+This repository outlines an enterprise-level strategy for evaluating and operationalizing a Health Information Exchange (HIE) rollout across a 4-hospital network and integrated ambulatory clinics. The framework addresses key technical architecture decisions, change management protocols, data governance, and stakeholder-specific value realization metrics.
+
+The primary objective is to transition fragmented clinical workflows into a connected care model that reduces redundant diagnostic testing, lowers 30-day readmission rates, and improves patient safety while maintaining data security.
